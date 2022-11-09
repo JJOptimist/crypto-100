@@ -1,6 +1,7 @@
 # Crypto100
 
 Made using React and free API for cryptocurrencies.
+![alt text](https://imgur.com/JnjRFPw)
 
 ## Available Scripts
 
