@@ -1,4 +1,4 @@
-# Crypto100
+# Crypto 100
 
 Made using React and free API for cryptocurrencies.
 
