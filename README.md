@@ -6,7 +6,7 @@ Made using React and free API for cryptocurrencies.
 
 ## Available Script
 
-In the project directory, you can run:
+In the project directory, you can run
 
 ### `npm start`
 
